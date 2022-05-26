@@ -1,0 +1,6 @@
+.quem-somos__titulo {
+    color: var(--vinho);
+    font-family: var(--estilo-fonte);
+    font-size: var(--fonte-titulo);
+    margin-bottom: 1rem;
+}
